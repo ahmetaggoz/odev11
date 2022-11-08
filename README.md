@@ -1,0 +1,2 @@
+# odev11
+VERİLEN ÖDEV YAPILDI.
